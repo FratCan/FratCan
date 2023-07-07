@@ -1,8 +1,8 @@
-### Hi there 👋
- 🔭 I’m currently working on java
- 🌱 I’m currently learning java and python
- 📫 How to reach me: www.linkedin.com/in/fırat-can-özdemir-99b367218
- 🤔 I’m looking for help with spring and microservice architecture
+### Hi there I'm Fırat Can👋
+ - 🔭 I’m currently working on java
+ - 🌱 I’m currently learning java and python
+ - 🤔 I’m looking for help with spring and microservice architecture
+ - 📫 How to reach me: www.linkedin.com/in/fırat-can-özdemir-99b367218
 <!--
 **FratCan/FratCan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
