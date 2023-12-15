@@ -1,7 +1,7 @@
 ### Hi there I'm Fırat Can👋
- - 🔭 I’m currently working on java
- - 🌱 I’m currently learning java and python
- - 🤔 I’m looking for help with spring and microservice architecture
+ - 🔭 I’m currently working on java,spring boot
+ - 🌱 I’m currently learning java and javascript
+ - 🤔 I’m looking for help with spring,hibernate and microservice architecture
  - 📫 How to reach me: www.linkedin.com/in/fırat-can-özdemir-99b367218
 <!--
 **FratCan/FratCan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
